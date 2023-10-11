@@ -1759,7 +1759,7 @@
     )
     (pin "1" (uuid 27cfa1f2-ca7e-4069-880e-02368dff1987))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR02") (unit 1)
         )
@@ -1784,7 +1784,7 @@
     )
     (pin "1" (uuid 4ae9b1a5-de94-4e9a-8b64-24695a117878))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR03") (unit 1)
         )
@@ -1810,7 +1810,7 @@
     (pin "1" (uuid 9c939fd6-cc20-4159-a5d1-3b19e2e81d83))
     (pin "2" (uuid 27290bd0-1dba-49cc-8096-bb75d79ac89c))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C14") (unit 1)
         )
@@ -1836,7 +1836,7 @@
     (pin "1" (uuid 70060766-f86c-4f59-8e47-caaab9b83386))
     (pin "2" (uuid 58519fd8-bfd9-49ad-9b68-ac7b3b9cab31))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C22") (unit 1)
         )
@@ -1861,7 +1861,7 @@
     )
     (pin "1" (uuid f1f473a8-cd90-4f74-8942-894dd2885b87))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR021") (unit 1)
         )
@@ -1889,7 +1889,7 @@
     (pin "3" (uuid 2ea05a59-9fa2-407d-814a-1526ea831f1f))
     (pin "5" (uuid f2110ca3-7e3f-40f2-81cd-42e07e437fdb))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "U1") (unit 1)
         )
@@ -1915,7 +1915,7 @@
     (pin "1" (uuid 2e2dbc65-4f15-4fd2-8dfc-437384cb8ac7))
     (pin "2" (uuid 09f1c23a-3e71-443f-9526-84f050018bfc))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C3") (unit 1)
         )
@@ -1940,7 +1940,7 @@
     )
     (pin "1" (uuid a89ee98d-91a2-46b4-8580-24ab30a31d92))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR018") (unit 1)
         )
@@ -1965,7 +1965,7 @@
     )
     (pin "1" (uuid 473ede3c-69f2-4f63-88c0-8fd5442e193e))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR020") (unit 1)
         )
@@ -1990,7 +1990,7 @@
     )
     (pin "1" (uuid cc41ca1d-0a69-4be7-8065-2bcc816d1a5e))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR04") (unit 1)
         )
@@ -2016,7 +2016,7 @@
     (pin "1" (uuid ecb75e25-94be-4065-a704-6a3ce26d3979))
     (pin "2" (uuid 417bb6d9-c0a4-460e-85ec-3b9d20707dd3))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C19") (unit 1)
         )
@@ -2041,7 +2041,7 @@
     )
     (pin "1" (uuid c48094cf-631b-41a2-8f59-cd0711f3f167))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR07") (unit 1)
         )
@@ -2066,7 +2066,7 @@
     )
     (pin "1" (uuid 425d0349-f7e9-477c-a31c-9f5674a705e2))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR08") (unit 1)
         )
@@ -2155,7 +2155,7 @@
     (pin "7" (uuid 37215cdc-4402-44b2-93bd-f4b345640d13))
     (pin "8" (uuid 72f76737-e79d-451f-9323-54f16d7d4e99))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "U4") (unit 1)
         )
@@ -2181,7 +2181,7 @@
     (pin "1" (uuid 246ddcc6-7de6-4133-a3a3-c6b390ff7a3f))
     (pin "2" (uuid c362dd3d-c8d4-4031-8ee2-77f8ca7f1902))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C13") (unit 1)
         )
@@ -2206,7 +2206,7 @@
     )
     (pin "1" (uuid 23e00b42-5286-466b-87ee-83f63b4ce55c))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR013") (unit 1)
         )
@@ -2231,7 +2231,7 @@
     )
     (pin "1" (uuid cc0ee24f-0aa6-4d94-8548-05305c92e9d8))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR028") (unit 1)
         )
@@ -2256,7 +2256,7 @@
     )
     (pin "1" (uuid 963964f1-156a-4c73-ac4e-bc6965a4455a))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR016") (unit 1)
         )
@@ -2281,7 +2281,7 @@
     )
     (pin "1" (uuid ad65f521-0910-4659-bec8-9596a07545e8))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR09") (unit 1)
         )
@@ -2307,7 +2307,7 @@
     (pin "1" (uuid cbeeb3f8-26d5-4837-8f4a-31639819ffa3))
     (pin "2" (uuid 31f0b4b1-85fd-488c-9574-c0523a330a9a))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C18") (unit 1)
         )
@@ -2332,7 +2332,7 @@
     )
     (pin "1" (uuid 056f87c2-9763-4a16-99df-6854cbf74286))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR019") (unit 1)
         )
@@ -2357,7 +2357,7 @@
     )
     (pin "1" (uuid 1f5456cd-75b0-485f-a82f-6f6dc8d468b8))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR05") (unit 1)
         )
@@ -2383,7 +2383,7 @@
     (pin "1" (uuid f238fabf-8299-499d-998a-dba15d4462b1))
     (pin "2" (uuid 957137a7-eed7-4c96-8850-d6db3f9486d5))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C17") (unit 1)
         )
@@ -2408,7 +2408,7 @@
     )
     (pin "1" (uuid 7e1c794b-2bb2-4730-936b-0a8c4f9138bf))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR017") (unit 1)
         )
@@ -2433,7 +2433,7 @@
     )
     (pin "1" (uuid 12853a36-bb94-4cfd-93d6-83d97d293046))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR015") (unit 1)
         )
@@ -2459,7 +2459,7 @@
     (pin "1" (uuid 91b2e1b9-99ea-489a-87bc-53f066d43126))
     (pin "2" (uuid c3b994aa-e685-4549-9087-cc13de0d263a))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "R1") (unit 1)
         )
@@ -2485,7 +2485,7 @@
     (pin "1" (uuid c2d65a0e-6eeb-4692-b558-7f2793aad49c))
     (pin "2" (uuid 6c746e4e-fadd-4faa-9b39-1005f2e6bcb6))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C4") (unit 1)
         )
@@ -2510,7 +2510,7 @@
     )
     (pin "1" (uuid 63b0785f-6e79-49f4-82cf-164e2ff53360))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR024") (unit 1)
         )
@@ -2539,7 +2539,7 @@
     (pin "4" (uuid b66fe03e-5c7f-4281-ab1f-1348ad28c4b4))
     (pin "5" (uuid 6c439d52-2a48-4be0-a1e1-55d710f204f7))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "U5") (unit 1)
         )
@@ -2564,7 +2564,7 @@
     )
     (pin "1" (uuid 99acb23a-1e5e-4c85-9678-fc6386ee7b89))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR027") (unit 1)
         )
@@ -2589,7 +2589,7 @@
     )
     (pin "1" (uuid baebf01e-f93a-48bb-bb7e-454237e37c9c))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR06") (unit 1)
         )
@@ -2615,7 +2615,7 @@
     (pin "1" (uuid a530d77e-375f-4e29-a791-6b2546618282))
     (pin "2" (uuid 2f441035-fa45-49fc-9b1e-fb2a9284c8ec))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C6") (unit 1)
         )
@@ -2641,7 +2641,7 @@
     (pin "1" (uuid e5bb1d89-0db3-4bd9-95c3-11cb06119ef5))
     (pin "2" (uuid 6589fc10-9972-481b-a039-a982fe414a4b))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C10") (unit 1)
         )
@@ -2666,7 +2666,7 @@
     )
     (pin "1" (uuid a80e8c10-bd4e-4907-bda7-f57d2c781301))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR025") (unit 1)
         )
@@ -2691,7 +2691,7 @@
     )
     (pin "1" (uuid 53434695-7edc-4b3d-8a9e-b9ecf7e85919))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR023") (unit 1)
         )
@@ -2717,7 +2717,7 @@
     (pin "1" (uuid 0dffbf58-4c36-42d2-8f57-901df758a9b4))
     (pin "2" (uuid 2a1aec15-1a79-40b1-b1bd-12ecd0cdeb44))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C5") (unit 1)
         )
@@ -2742,7 +2742,7 @@
     )
     (pin "1" (uuid aa3ac6d8-2064-4214-a951-fe5736abda59))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR011") (unit 1)
         )
@@ -2768,7 +2768,7 @@
     (pin "1" (uuid 2a9a3d5f-4b85-4e54-8e8e-3de610fb28f2))
     (pin "2" (uuid d3678d5e-067e-4770-a2ab-dc891c4e91e2))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C7") (unit 1)
         )
@@ -2794,7 +2794,7 @@
     (pin "1" (uuid d5d7c852-add7-4c7f-b8d7-b381a281757f))
     (pin "2" (uuid a6538584-a3bb-417e-ba5f-689acc7d8ba7))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C26") (unit 1)
         )
@@ -2819,7 +2819,7 @@
     )
     (pin "1" (uuid 5275a77f-1d46-48ab-9556-af607ec41440))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR010") (unit 1)
         )
@@ -2847,7 +2847,7 @@
     (pin "3" (uuid a939981b-65b3-47a7-aa3a-faad649d0c53))
     (pin "5" (uuid 91921c80-42a5-4421-99e8-8507c3d57ed6))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "U2") (unit 1)
         )
@@ -2873,7 +2873,7 @@
     (pin "1" (uuid 50b32f48-2fcf-4a94-bd4f-ffe2339ca26a))
     (pin "2" (uuid 50a0cada-e8fa-43c2-92ad-abe9d6f898f5))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C20") (unit 1)
         )
@@ -2898,7 +2898,7 @@
     )
     (pin "1" (uuid 2a680a6e-4615-461b-a336-f102f124485c))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR022") (unit 1)
         )
@@ -2923,7 +2923,7 @@
     )
     (pin "1" (uuid 561c865a-c56b-45c7-a146-14dc738455df))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR01") (unit 1)
         )
@@ -2949,7 +2949,7 @@
     (pin "1" (uuid 77e66342-509e-47d0-9765-7fcc13b9a426))
     (pin "2" (uuid 1321edba-5ca3-4d10-be28-8c4480d9494e))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C16") (unit 1)
         )
@@ -2975,7 +2975,7 @@
     (pin "1" (uuid 1cd6262d-ca8a-4714-a172-6e973e186f5f))
     (pin "2" (uuid 7ed1813b-588c-46c8-af19-7ef625b6b93c))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "SW1") (unit 1)
         )
@@ -3001,7 +3001,7 @@
     (pin "1" (uuid eb73bc83-e63a-43a6-907a-87fe81edee24))
     (pin "2" (uuid 562e62ca-36f8-4e3d-b79c-0a04e4620e17))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C1") (unit 1)
         )
@@ -3027,7 +3027,7 @@
     (pin "1" (uuid 3944665e-25db-449d-8e34-286667038956))
     (pin "2" (uuid 340faf76-b627-4e61-b2e1-8a97ceedf842))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C9") (unit 1)
         )
@@ -3053,7 +3053,7 @@
     (pin "1" (uuid a809b5e0-7da3-4acf-84a3-7fb0d45541eb))
     (pin "2" (uuid 6413742f-9abe-431d-aed5-0c5ffd9f850a))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C12") (unit 1)
         )
@@ -3078,7 +3078,7 @@
     )
     (pin "1" (uuid d44af197-7113-4625-bf5b-10ae23dd43c2))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR014") (unit 1)
         )
@@ -3104,7 +3104,7 @@
     (pin "1" (uuid e60e24d8-cfc4-4a0b-a555-425df75c62c2))
     (pin "2" (uuid b10a0903-92e9-4b71-bc7a-e3bc186ad4fa))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C23") (unit 1)
         )
@@ -3129,7 +3129,7 @@
     )
     (pin "1" (uuid f609d72a-c6c9-41d8-92a7-0a488b1376c3))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR026") (unit 1)
         )
@@ -3155,7 +3155,7 @@
     (pin "1" (uuid d3b5bacb-3164-444f-a130-218e6d6bade9))
     (pin "2" (uuid 0ce37d38-ed4b-4add-9bea-e1c7b76d33b3))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C24") (unit 1)
         )
@@ -3183,7 +3183,7 @@
     (pin "3" (uuid e6da1db6-3ca0-449c-ba0f-79f5d6ac5387))
     (pin "5" (uuid d1017828-80ae-48be-89f6-d0b8974970ac))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "U3") (unit 1)
         )
@@ -3209,7 +3209,7 @@
     (pin "1" (uuid 37fbe4fd-4abe-49c1-bb06-22f1888fe0ae))
     (pin "2" (uuid 532b25bf-2e36-4919-a004-e4d10b482296))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C15") (unit 1)
         )
@@ -3235,7 +3235,7 @@
     (pin "1" (uuid 0857ec22-7be8-478e-b7dc-0bc6449db6ca))
     (pin "2" (uuid bf5753e7-8bfd-454e-b155-e6a149cc7ddc))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C2") (unit 1)
         )
@@ -3260,7 +3260,7 @@
     )
     (pin "1" (uuid 5af51f29-47ef-46d0-b701-8f525a5e7853))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "#PWR012") (unit 1)
         )
@@ -3286,7 +3286,7 @@
     (pin "1" (uuid 7ad03ebc-a5f7-447d-a3bb-337904df6207))
     (pin "2" (uuid 64ccb5e6-8bb4-4267-a0c1-baca297b5835))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C8") (unit 1)
         )
@@ -3312,7 +3312,7 @@
     (pin "1" (uuid 62706f5b-22e9-426f-a383-d1661a03ece5))
     (pin "2" (uuid 61ab7ab0-ae22-4884-b825-24cf99721e84))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C21") (unit 1)
         )
@@ -3338,7 +3338,7 @@
     (pin "1" (uuid bcd3f0e3-1f72-4912-918a-2df02a75c6e3))
     (pin "2" (uuid 664f7180-c441-441f-9396-88113e2c08d5))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C11") (unit 1)
         )
@@ -3364,7 +3364,7 @@
     (pin "1" (uuid ccb57873-99f9-4cb0-a68c-2555b08400d9))
     (pin "2" (uuid 0fdcd8ac-906d-4c92-a3f4-97779d94139f))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "C25") (unit 1)
         )
@@ -3390,7 +3390,7 @@
     (pin "1" (uuid f6cb1726-fff4-4d34-b0aa-bb3e66a02cfa))
     (pin "2" (uuid 27598d67-26ca-4597-8972-ec798852ad00))
     (instances
-      (project "linux_sbc"
+      (project "sam9x60d5m_basic"
         (path "/dfd1e348-6e44-47ee-a544-4221c05dabfd"
           (reference "Y1") (unit 1)
         )
